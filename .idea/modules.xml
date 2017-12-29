@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DesignThinking_Flash.iml" filepath="$PROJECT_DIR$/DesignThinking_Flash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DesignThinking_Flash.iml" filepath="$PROJECT_DIR$/.idea/DesignThinking_Flash.iml" />
+      <module fileurl="file://C:\Users\Phone Htet Paing\StudioProjects\DesignThinking_Flash\DesignThinking_Flash.iml" filepath="C:\Users\Phone Htet Paing\StudioProjects\DesignThinking_Flash\DesignThinking_Flash.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Phone Htet Paing\StudioProjects\DesignThinking_Flash\app\app.iml" filepath="C:\Users\Phone Htet Paing\StudioProjects\DesignThinking_Flash\app\app.iml" />
     </modules>
   </component>
 </project>
